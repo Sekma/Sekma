@@ -1,6 +1,16 @@
 <h1>Hi there 👋 </h1><br>
 <h3>Welcome to my profile !</h3>
 
+<div align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Sekma&layout=compact&theme=algolia&background=0d1117&hide_border=true" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/Sekma/Sekma">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sekma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sekma&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
