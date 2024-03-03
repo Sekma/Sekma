@@ -1,5 +1,5 @@
-<h1>Hi there 👋 </h1>h1><br>
-<h1></h1>Welcome to my profile !</h3>
+<h1>Hi there 👋 </h1><br>
+<h3>Welcome to my profile !</h3>
 
 <!--
 **Sekma/Sekma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
