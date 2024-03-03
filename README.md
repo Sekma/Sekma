@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/Sekma/Sekma">
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Sekma&layout=compact&theme=algolia&background=0d1117&hide_border=true" />
+<img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Sekma&layout=compact&theme=algolia&background=0d1117&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sekma&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
