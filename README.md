@@ -1,8 +1,7 @@
 <h1>Welcome to my profile ! 👋 </h1>
-
-<div align="center">
+<!--<div align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Sekma&layout=compact&theme=algolia&background=0d1117&hide_border=true" />
-</div>
+</div>-->
 
 <div align="center">
   <a href="https://github.com/Sekma/Sekma">
