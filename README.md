@@ -20,8 +20,8 @@
   <img align="center" alt="Rafa-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div><br>
 <div align = "center">
-    <a href="https://www.linkedin.com/in/mohamed-hedi-sekma-b4baab26b" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/arij__sa/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/insta%20rect.svg"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/mohamed-hedi-sekma-b4baab26b" target="_blank"><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg"></a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/arij__sa/" target="_blank"><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg"></a>&nbsp;&nbsp;
     <a href="https://github.com/ArijSaaleh" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
       <img align="right" src="https://komarev.com/ghpvc/?username=Sekma&label=Views&color=blue&style=flat-square" alt="views on github" />
 <!--
