@@ -27,8 +27,11 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"></a>&nbsp;&nbsp;
     <a href="https://github.com/Sekma" target="_blank"><img height="35" 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></a>&nbsp;&nbsp;
-</div>
+    <a href="mailto:sekma.mohamed.hedi@gmail.com" target="_blank"><img height="35" 
+      src="https://github.com/jzsfkzm/color-icons-for-gmail/blob/master/resources/Gmail-Icon.png"></a>&nbsp;&nbsp;
       <img align="right" src="https://komarev.com/ghpvc/?username=Sekma&label=Views&color=blue&style=flat-square" alt="views on github" />
+</div>
+      
 <!--
 **Sekma/Sekma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
