@@ -14,7 +14,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Rafa-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Rafa-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="Rafa-vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Rafa-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -38,7 +39,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/></a>&nbsp;&nbsp;
     <a href="https://github.com/Sekma" target="_blank"><img height="30" 
        src="https://github.com/BrightspaceUI/nav-icons/blob/main/src/default-link.svg"/></a>&nbsp;&nbsp;
-    <a href="https://github.com/Sekma" target="_blank"><img height="30" 
+    <a href="https://twitter.com/SekmaHedi" target="_blank"><img height="30" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"/></a>&nbsp;&nbsp;
       <img align="right" src="https://komarev.com/ghpvc/?username=Sekma&label=Views&color=blue&style=flat-square" alt="views on github"/>
       
