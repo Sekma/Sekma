@@ -29,18 +29,18 @@
   <img align="center" alt="Rafa-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div><br><hr>
 <div align = "center">
-    <a href="https://www.linkedin.com/in/mohamed-hedi-sekma-b4baab26b" target="_blank"><img height="30" 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>&nbsp;&nbsp;
     <a href="mailto:sekma.mohamed.hedi@gmail.com" target="_blank"><img height="30" 
       src="https://github.com/jzsfkzm/color-icons-for-gmail/blob/master/resources/Gmail-Icon.png"></a>&nbsp;&nbsp;
-    <a href="https://www.facebook.com/sekma.med.hedi" target="_blank"><img height="30" 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/mohamed-hedi-sekma-b4baab26b" target="_blank"><img height="30" 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>&nbsp;&nbsp;
     <a href="https://github.com/Sekma" target="_blank"><img height="30" 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/></a>&nbsp;&nbsp;
-    <a href="https://github.com/Sekma" target="_blank"><img height="30" 
-       src="https://github.com/BrightspaceUI/nav-icons/blob/main/src/default-link.svg"/></a>&nbsp;&nbsp;
+    <a href="https://www.facebook.com/sekma.med.hedi" target="_blank"><img height="30" 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/SekmaHedi" target="_blank"><img height="30" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"/></a>&nbsp;&nbsp;
+    <a href="https://github.com/Sekma" target="_blank"><img height="30" 
+       src="https://github.com/BrightspaceUI/nav-icons/blob/main/src/default-link.svg"/></a>&nbsp;&nbsp;
       <img align="right" src="https://komarev.com/ghpvc/?username=Sekma&label=Views&color=blue&style=flat-square" alt="views on github"/>
       
 </div>
