@@ -12,12 +12,19 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Rafa-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafa-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Rafa-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="Rafa-vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Rafa-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="Rafa-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Rafa-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Rafa-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg">
+  <img align="center" alt="Rafa-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Rafa-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Rafa-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   <img align="center" alt="Rafa-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div><br><hr>
 <div align = "center">
@@ -31,7 +38,10 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/></a>&nbsp;&nbsp;
     <a href="https://github.com/Sekma" target="_blank"><img height="30" 
        src="https://github.com/BrightspaceUI/nav-icons/blob/main/src/default-link.svg"/></a>&nbsp;&nbsp;
+    <a href="https://github.com/Sekma" target="_blank"><img height="30" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"/></a>&nbsp;&nbsp;
       <img align="right" src="https://komarev.com/ghpvc/?username=Sekma&label=Views&color=blue&style=flat-square" alt="views on github"/>
+      
 </div>
       
 
