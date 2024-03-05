@@ -29,6 +29,8 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"></a>&nbsp;&nbsp;
     <a href="https://github.com/Sekma" target="_blank"><img height="30" 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/></a>&nbsp;&nbsp;
+    <a href="https://github.com/Sekma" target="_blank"><img height="30" 
+       src="https://github.com/BrightspaceUI/nav-icons/blob/main/src/default-link.svg"/></a>&nbsp;&nbsp;
       <img align="right" src="https://komarev.com/ghpvc/?username=Sekma&label=Views&color=blue&style=flat-square" alt="views on github"/>
 </div>
       
