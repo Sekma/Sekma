@@ -11,7 +11,10 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
-  <img align="center" alt="Rafa-redux" height="30" width="40" src="https://images.seeklogo.com/logo-png/49/1/zephyr-logo-png_seeklogo-490081.png">
+      
+  <img align="center" alt="Zephyr RTOS logo" height="30" width="40"
+     src="https://upload.wikimedia.org/wikipedia/commons/0/05/Zephyr_RTOS_logo_2015.svg">
+
   <img align="center" alt="Rafa-redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
