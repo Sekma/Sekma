@@ -41,10 +41,8 @@
       src="https://github.com/jzsfkzm/color-icons-for-gmail/blob/master/resources/Gmail-Icon.png"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/mohamed-hedi-sekma-b4baab26b" target="_blank"><img height="30" 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>&nbsp;&nbsp;
-    <a href="https://github.com/Sekma" target="_blank"><img height="30" 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/></a>&nbsp;&nbsp;
     <a href="https://www.facebook.com/sekma.med.hedi" target="_blank"><img height="30" 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"></a>&nbsp;&nbsp;
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/SekmaHedi" target="_blank"><img height="30" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"/></a>&nbsp;&nbsp;
     <a href="https://mohamed-hedi-sekma.netlify.app/" target="_blank"><img height="30" 
