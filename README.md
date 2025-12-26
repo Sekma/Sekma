@@ -34,6 +34,7 @@
 <img align="center" alt="Rafa-redux" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png">&nbsp;
 <img align="center" alt="Rafa-vscode" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">&nbsp;
 <img align="center" alt="Rafa-vscode" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">&nbsp;
+<img align="center" alt="Rafa-vscode" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">&nbsp;
 <img align="center" alt="Rafa-vscode" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">&nbsp;
 <img align="center" alt="Rafa-wordpress" width="45" src="https://www.chartjs.org/img/chartjs-logo.svg">
 </div><br><hr>
