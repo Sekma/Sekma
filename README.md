@@ -30,6 +30,7 @@
 <img align="center" alt="Rafa-redux" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">&nbsp;
 <img align="center" alt="Rafa-redux" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">&nbsp;
 <img align="center" alt="Rafa-redux" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">&nbsp;
+<img align="center" alt="Rafa-redux" width="40" src="https://allurereport.org/public/img/allure-report.svg">&nbsp;
 <img align="center" alt="Rafa-redux" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png">&nbsp;   
 <img align="center" alt="Rafa-redux" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png">&nbsp;
 <img align="center" alt="Rafa-vscode" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">&nbsp;
